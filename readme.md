@@ -2,7 +2,6 @@
 
 
 ## Description
-This project is a part of the final **Data Mining** project for **ITC Fellow Program 2020**. 
 
 Datasets used in this project
 * Crowd-sourced Emotional Mutimodal Actors Dataset (**Crema-D**)
